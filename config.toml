@@ -1,4 +1,4 @@
-baseURL = "https://www.nationalgeographic.es/"
+baseURL = "https://natgeo-amp.netlify.com/"
 languageCode = "es-es"
 title = "National Geographic"
 theme = "blank"
