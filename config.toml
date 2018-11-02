@@ -1,0 +1,6 @@
+baseURL = "https://www.nationalgeographic.es/"
+languageCode = "es-es"
+title = "National Geographic"
+theme = "blank"
+
+

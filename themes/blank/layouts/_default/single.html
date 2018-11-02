@@ -1,0 +1,128 @@
+{{ partial "header.html" . }}
+
+<main>
+  {{/* <article>
+
+
+
+    <h1>{{ .Title }}</h1>
+    <time>{{ .Date.Format "02.01.2006 15:04" }}</time>
+    <div>
+      {{ .Content }}
+    </div>
+    <div>
+      <ul id="tags">
+        {{ range .Params.tags }}
+        <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+        {{ end }}
+      </ul>
+    </div>
+    <div>
+      {{ template "_internal/disqus.html" . }}
+    </div> */}}
+
+
+
+
+
+
+    <article class="node node--type-article node--promoted node--view-mode-full ng-article media-photo">
+      <div class="grid-wrapper">
+        <div class="ng-article-main-title">
+          <div class="ng-article-headline">
+            <div class="ng-article-headline__tag">{{.Params.taxonomy_term}}</div>
+            <h1 class="ng-article-headline__title">{{ .Title }}</h1>
+            <div class="ng-article-headline__deck">
+              <h2 class="ng-article-headline__text">
+                {{.Params.subheadline}}
+                <span class="ng-article-headline__date">{{.Params.date_human}}</span>
+              </h2>
+            </div>
+          </div>
+          <div class="ng-sharekit__container">
+            <div class="ng-sharekit__wrapper">
+              <div class="ng-sharekit__contributors">
+                <div class="ng-sharekit__contributors--author">
+                  De <span class="ng-sharekit--dark">{{.Params.author}}</span>
+                </div>
+              </div>
+              <div data-pestle-module="ShareKitModule">
+                <div data-reactroot="" class="ng-sharekit ng-sharekit--article">
+                  <div class="ng-sharekit__default-links">
+                    <a href="#" class="ng-sharelink ng-sharelink--facebook">
+                      <amp-img width="8" height="18" src="/images/fb.png" />
+                    </a>
+
+                    <a href="#" class="ng-sharelink ng-sharelink--twitter">
+                      <amp-img width="18" height="18" src="/images/tw.png" />
+                    </a>
+
+                    <a href="#" class="ng-sharelink ng-sharelink--flipboard">
+                      <amp-img width="18" height="18" src="/images/flipboard.png" />
+                    </a>
+
+                    <a href="#" class="ng-sharelink ng-sharelink--whatsapp">
+                      <amp-img width="18" height="18" src="/images/whatsapp.png" />
+                    </a>
+                  </div>
+                  <a class="ng-sharekit__open-btn">
+                    <amp-img width="18" height="18" src="/images/more.png" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div data-pestle-module="ArticleImageModule">
+        <div class="ng-article-image ng-article-image--large ng-article-image--full">
+          <div>
+            <amp-img width="470" height="264" layout="responsive" src="/images/{{.Params.image_name}}" />
+          </div>
+          <div class="ng-article-image__content">
+            <div class="ng-article-image__content__copy">{{.Params.image_caption}}</div>
+            <div class="ng-article-image__content__author">
+              photographie de
+              <span class="ng-article-image__content--strong">{{.Params.image_credit}}</span></div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="article-container">
+
+        <div class="ng-article__content">
+          <div class="grid-wrapper ng-article__group">
+            <div class="ng-article__main-col">
+              <div class="paragraph paragraph--type--content paragraph--view-mode--default">
+                <div>
+                  {{.Content}}
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+
+      </div>
+      </div>
+
+
+    </article>
+
+
+
+
+
+
+
+
+
+
+
+</main>
+{{ partial "footer.html" . }}
