@@ -1,6 +1,6 @@
 <div class="grid-wrapper">
   <div class="ng-card ng-article-card ng-card--third ng-card--16x9 ">
-    <a href="{{ .Permalink }}" class="ng-card__image-wrapper" target="_self">
+    <a href="{{ .URL }}" class="ng-card__image-wrapper" target="_self">
       <div class="ng-card__image--16x9 ng-card__image">
         <amp-img width="470" height="264" layout="responsive" src="/images/{{.Params.image_name}}" />
       </div>
@@ -8,7 +8,7 @@
     <div class="ng-card__content">
       <div class="ng-card__tags">
         <div class="ng-card__tag"><a href="/#" target="_self">{{ .Params.taxonomy_term }}</a></div>
-      </div><a href="{{ .Permalink }}" target="_self">
+      </div><a href="{{ .URL }}" target="_self">
         <h2 class="ng-card__text">{{ .Title }}</h2>
       </a>
       <div class="ng-card__deck"></div>
