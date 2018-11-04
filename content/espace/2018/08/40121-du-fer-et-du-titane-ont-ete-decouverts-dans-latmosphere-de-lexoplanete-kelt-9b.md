@@ -1,5 +1,5 @@
 ---
-title: "JAM Du fer et du titane ont été découverts dans l'atmosphère de l'exoplanète KELT-9b"
+title: "Du fer et du titane ont été découverts dans l'atmosphère de l'exoplanète KELT-9b"
 date: 2018-08-21T07:19:54
 date_human: "Mardi, 21 août"
 draft: false
@@ -12,13 +12,13 @@ image_credit: NASA/JPL-Caltech
 image_caption: Cette vue d'artiste montre la planète KELT-9b en orbite autour de son étoile hôte, KELT-9. C'est la planète géante gazeuse la plus chaude découverte à ce jour.
 ---
 
-<p>Hello!!! Sous un soleil de plomb, KELT-9b dévoile une atmosphère où se mêlent fer et titane. Située à environ 620 années-lumière de la Terre, cette exoplanète trois fois plus massive que Jupiter - la plus grande planète du système solaire - possède une atmosphère jamais vue auparavant <a href="https://www.nature.com/articles/s41586-018-0401-y">selon une étude suisse publiée dans la revue <em>Nature</em></a>.</p>
+<p>Sous un soleil de plomb, KELT-9b dévoile une atmosphère où se mêlent fer et titane. Située à environ 620 années-lumière de la Terre, cette exoplanète trois fois plus massive que Jupiter - la plus grande planète du système solaire - possède une atmosphère jamais vue auparavant <a href="https://www.nature.com/articles/s41586-018-0401-y">selon une étude suisse publiée dans la revue <em>Nature</em></a>.</p>
 
 <p>Sa grande proximité avec l’étoile KELT-9 - 30 fois plus proche que la distance Soleil/Terre - lui procure une température à sa surface avoisinant les 4&nbsp;000°C. Elle est ainsi l’exoplanète la plus chaude jamais observée. C’est grâce à cette température intense que les scientifiques ont pu visualiser les atomes de fer et de titane dans l’atmosphère de KELT-9b. Celle-ci étant très élevée, les métaux n’existent que sous leur forme atomique car l’énergie dégagée par la chaleur rompt toutes les liaisons possibles avec les autres atomes. Ce phénomène est d’autant plus étonnant que les forces gravitationnelles exercées sur cette exoplanète l’empêche d’effectuer des rotations sur elle-même contrairement à la Terre. Si bien qu’elle montre toujours le même côté à son étoile, plongeant son autre face dans l’obscurité perpétuelle.</p>
 
 <p>&nbsp;</p>
 
-<h2>CHANGE LE FER, UN MÉTAL DIFFICILEMENT IDENTIFIABLE</h2>
+<h2>LE FER, UN MÉTAL DIFFICILEMENT IDENTIFIABLE</h2>
 
 <p>Observable dans la voûte céleste au sein de la constellation du Cygne, KELT-9b est l’une des premières exoplanètes où l'on retrouve&nbsp;du fer, et ce malgré sa relative abondance dans l’univers. Ce métal est souvent indétectable auprès du matériel astronomique&nbsp;sous forme solide notamment à cause de ses liaisons avec d’autres molécules qui modifient son rayonnement. Ainsi sous forme atomique, le <a href="https://www.eso.org/public/france/teles-instr/lasilla/36/harps/">spectrographe HARPS</a> du télescope Galileo localisé à La Palma (île des Canaries)&nbsp;a pu révéler sa présence aux scientifiques des Universités de Genève et de Berne. Suite à cette découverte, une analyse plus fine des données a non seulement démontré la présence de fer (Fe) et d’ions ferreux (Fe <sup>2+</sup>) sur le satellite de KELT-9 mais également de titane ionisé (Ti<sup>+</sup>). Un ion est un atome portant une charge électrique positive ou négative.</p>
 
