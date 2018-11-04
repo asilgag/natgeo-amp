@@ -1,5 +1,5 @@
 ---
-title: "Hello JAMstack 4!!! Du fer et du titane ont été découverts dans l'atmosphère de l'exoplanète KELT-9b"
+title: "Hello JAMstack!!! Du fer et du titane ont été découverts dans l'atmosphère de l'exoplanète KELT-9b"
 date: 2018-08-21T07:19:54
 date_human: "Mardi, 21 août"
 draft: false
