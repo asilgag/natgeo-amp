@@ -1,0 +1,4 @@
+/fonts/*
+  Cache-Control: public, max-age=600
+/images/*
+  Cache-Control: public, max-age=600
