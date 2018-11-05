@@ -1,4 +1,8 @@
-/fonts/*
-  Cache-Control: public, max-age=600
-/images/*
-  Cache-Control: public, max-age=600
+[[headers]]
+for = "/fonts/*"
+[headers.values]
+Cache-Control = "public, max-age=600"
+[[headers]]
+for = "/images/*"
+[headers.values]
+Cache-Control = "public, max-age=600"
