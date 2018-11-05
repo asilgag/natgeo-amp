@@ -1,2 +1,5 @@
 /node_modules
 /public
+/package.json
+/stylelint.config.js
+/yarn.lock
