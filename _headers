@@ -1,8 +1,8 @@
 [[headers]]
-for = "/fonts/*"
-[headers.values]
-Cache-Control = "public, max-age=600"
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600"
 [[headers]]
-for = "/images/*"
-[headers.values]
-Cache-Control = "public, max-age=600"
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600"
